@@ -11,15 +11,11 @@ Welcome! This repository provides beginner-friendly, step-by-step guides for con
 - **Advanced**: Tips on amending commits and handling common Git scenarios.
 - **Useful Links**: Curated resources for learning Git, GitHub, and open source.
 
+## 📝 How to Use This Guide
+
+Choose the workflow or tool you’re most comfortable with (GitHub CLI, Desktop, Bash, or VS Code) and follow the detailed, illustrated steps in the corresponding guide. Each section walks you through forking, cloning, branching, editing, committing, pushing, and opening a pull request everything you need to make your first (or next) open source contribution.
 
 
-Each guide provides detailed steps and screenshots for its workflow.
-
-## 🤝 Who is this for?
-
-- Beginners making their first open source contribution.
-- Anyone wanting a visual or command-line workflow.
-- Contributors looking for best practices and troubleshooting tips.
 
 ## 📎 Resources
 
